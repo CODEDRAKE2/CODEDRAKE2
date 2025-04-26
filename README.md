@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CODEDRAKE2
-- 👀 I’m interested in Cybersecurity and data science
-- 🌱 I’m currently learning Cybersecurity
+- 👀 I’m interested in Blockchain development and data science
+- 🌱 I’m currently learning DATASCIENCE
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...stephenbotchway106@gmail.com
 - 😄 Pronouns: ...He
